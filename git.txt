@@ -1,0 +1,15 @@
+❯ git add .
+❯ git status
+❯ git restore .\parctica1.txt
+❯ git commit -m"practica 1.0 estable"
+❯ git log
+> git revert 7bf663612bab51d41b8c62ecd42b1aa328e3f496
+> git show 7bf663612bab51d41b8c62ecd42b1aa328e3f496
+> git log --oneline 
+> git log --oneline -n 5
+> git log --oneline branch_name
+> git log --oneline --graph --all
+> git swich
+> git swich -c
+> git checkout master
+> git branch
